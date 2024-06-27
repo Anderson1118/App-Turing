@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "410408404860",
+    "project_id": "appturin-87ce6",
+    "storage_bucket": "appturin-87ce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410408404860:android:70837a73dde669ac81c6f9",
+        "android_client_info": {
+          "package_name": "com.example.app_turing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410408404860-3d6iu4saf7r384ifqeq1f87lpov56kin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_turing",
+            "certificate_hash": "3ead7ae8589cd8a88a64254523ed89eb56289db6"
+          }
+        },
+        {
+          "client_id": "410408404860-4ke7m85or1hqlkicv8beb0rkberr14ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWGKodYq8Nrp7hy8AI-_eLD5Q-_AcNIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410408404860-4ke7m85or1hqlkicv8beb0rkberr14ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
